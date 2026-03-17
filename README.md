@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Jeia ⚡
 
-<!--
-**j-yaa/j-yaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Exploring systems, architecture, and writing clean code."
 
-Here are some ideas to get you started:
+I am a future Computer Engineering Technology student currently transitioning my focus towards lower-level programming and system architecture. I believe in building efficient, scalable, and practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+*Here are the technologies I'm currently working with or exploring:*
+
+- **Languages:** C++, C, Python
+- **Environments & Tools:** Code::Blocks, Git, Command Line Interface, LeetCode, Microsoft Visual Studio <p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeBlocks-323A50?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </p>
+- **Focus Areas:** Algorithms, Systems Programming, Hardware-Software Integration
+
+### 🚀 Currently...
+- 🎓 Preparing for my Bachelor of Engineering Technology in Computer Engineering Tech.
+- ⚙️ Reviewing foundational C++ concepts and data structures.
+- 🌱 Expanding my knowledge of operating systems and microcontroller logic.
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-yaa&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+*Feel free to explore my repositories or reach out!*
