@@ -18,7 +18,7 @@ I am a future Computer Engineering Technology student currently transitioning my
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
-- **Focus Areas:** Algorithms, Systems Programming, Hardware-Software Integration
+- **Focus Areas:** Algorithms, Systems Programming, Hardware-Software Integration, and Fun Random Projects
 
 ### 🚀 Currently...
 - 🎓 Navigating the BET program at TUPV while working hard toward securing a major in Computer Engineering Technology.
