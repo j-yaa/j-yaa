@@ -14,7 +14,7 @@ I am a future Computer Engineering Technology student currently transitioning my
 - **Environments & Tools:** Code::Blocks, LeetCode, Git, Microsoft Visual Studio, VSCode, and PyCharm <p align="left">
   <img src="https://img.shields.io/badge/CodeBlocks-323A50?style=for-the-badge&logo=codeblocks&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </p>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
 - **Focus Areas:** Algorithms, Systems Programming, Hardware-Software Integration, and Fun Random Projects
