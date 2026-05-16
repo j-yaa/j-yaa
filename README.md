@@ -1,31 +1,38 @@
 # Hi there, I'm Jeia ⚡
 
-> "Exploring systems, architecture, and writing clean code."
+> "Learning to speak machine, one segmentation fault at a time."
 
-I am a future Computer Engineering Technology student currently transitioning my focus towards lower-level programming and system architecture. I believe in building efficient, scalable, and practical solutions.
+I am a BET student at TUPV, crossing my fingers to offcially land a spot in the Computer Engineering Technology major soon. Honestly, I'm just trying to figure things out as I go and turn theories into actual code.
 
 ### 💻 Tech Stack & Tools
 *Here are the technologies I'm currently working with or exploring:*
 
-- **Languages:** C++, C, Python <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-- **Environments & Tools:** Code::Blocks, LeetCode, Git, Microsoft Visual Studio, VSCode, and PyCharm <p align="left">
-  <img src="https://img.shields.io/badge/CodeBlocks-323A50?style=for-the-badge&logo=codeblocks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
-- **Focus Areas:** Algorithms, Systems Programming, Hardware-Software Integration, and Fun Random Projects
+- **Languages:** C++, C, Python
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35" alt="C++" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" alt="C" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" alt="Python" />
+  
+- **Environments & Tools:** Code::Blocks, LeetCode, GitHub, Microsoft Visual Studio, VSCode, and PyCharm
+  <br>
+  <img src="https://cdn.simpleicons.org/codeblocks" width="35" height="35" alt="Code::Blocks" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" width="35" height="35" alt="GitHub" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="35" height="35" alt="Visual Studio" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" height="35" alt="PyCharm" />
 
 ### 🚀 Currently...
-- 🎓 Navigating the BET program at TUPV while working hard toward securing a major in Computer Engineering Technology.
-- ⚙️ Strengthening my C++ fundamentals through trial, errors, and a lot of debugging.
-- 🌱 Expanding my knowledge of operating systems and low-level computer architecture.
+- 🎓 Grinding to meet the cutoff for the CompTech major.
+- ⚙️ Learning the absolute basics of C++. Mostly just trial, errors, and a lot of debugging.
+- 🕹️ Hardware is mostly theory for me right now. I have the knowledge, I just need to get more hands-on practice.
+
+### 🎯 Goals for this year
+- Actually build a project instead of just thinking about building a project.
+- Majoring in CompTech.
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-yaa&show_icons=true&theme=tokyonight&hide_border=true)
+![Jeia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-yaa&show_icons=true&theme=tokyonight)
 
 ---
 *Feel free to explore my repositories or reach out!*
