@@ -1,4 +1,4 @@
-# Hi there, I'm Jeia ⚡
+# Hi there, I'm Jeia <img src="file:///D:/Downloads/image-removebg-preview%20(22).png" width="50" height="50">
 
 > Learning to speak machine, one `segmentation fault` at a time.
 
@@ -34,6 +34,3 @@ I am a BET student at TUPV, crossing my fingers to offcially land a spot in the 
 
 ### 📈 GitHub Stats
 ![Jeia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j-yaa&show_icons=true&theme=tokyonight)
-
----
-*Feel free to explore my repositories or reach out!*
