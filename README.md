@@ -30,5 +30,5 @@ I am a BET student at TUPV, crossing my fingers to offcially land a spot in the 
 4. Practicing Soldering with precision, and learning circuit designs.
   
 ### 🎯 Goals for this year
-- [ ] Actually build a app project instead of just thinking about building a project.
+- [ ] Actually build an app project instead of just thinking about building a project.
 - [ ] Majoring in CompTech.
