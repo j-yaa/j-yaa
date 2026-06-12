@@ -5,7 +5,6 @@
 I am a BET student at TUPV, crossing my fingers to offcially land a spot in the Computer Engineering Technology major soon. Honestly, I'm just trying to figure things out as I go and turn theories into actual code.
 
 ### <h3>💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=230&height=28&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
-*Here are the technologies I'm currently working with or exploring:*
 
 - **Languages:** C++, C, Python
   <br>
@@ -29,8 +28,5 @@ I am a BET student at TUPV, crossing my fingers to offcially land a spot in the 
 - 🕹️ Hardware is mostly theory for me right now. I have the knowledge, I just need to get more hands-on practice.
 
 ### 🎯 Goals for this year
-- Actually build a project instead of just thinking about building a project.
-- Majoring in CompTech.
-
-### 📈 GitHub Stats
-![Jeia's GitHub Stats](https://github-readme-stats-sigma-five.vercel.com/api?username=j-yaa&show_icons=true&theme=tokyonight)
+- [ ] Actually build a project instead of just thinking about building a project.
+- [ ] Majoring in CompTech.
