@@ -16,8 +16,8 @@ I am a BET student at TUPV, crossing my fingers to offcially land a spot in the 
   <sub>*(I made these Logos clickable that redirects you to their websites)*
   <br>
   <a href="https://www.codeblocks.org/"><img src="https://cdn.simpleicons.org/codeblocks" width="35" height="35" alt="Code::Blocks" /></a> &nbsp;
-  <a href="https://leetcode.com/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode" /></a> &nbsp;
-  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/white" width="35" height="35" alt="GitHub" /></a> &nbsp;
+  <a href="https://leetcode.com/jei_"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode" /></a> &nbsp;
+  <a href="https://github.com/j-yaa"><img src="https://cdn.simpleicons.org/github/white" width="35" height="35" alt="GitHub" /></a> &nbsp;
   <a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="35" height="35" alt="Visual Studio" /></a> &nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" /></a> &nbsp;
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" height="35" alt="PyCharm" /></a>
