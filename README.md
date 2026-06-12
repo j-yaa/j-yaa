@@ -24,8 +24,8 @@ I am a BET student at TUPV, crossing my fingers to offcially land a spot in the 
 
 ### 🚀 Currently...
 - 🎓 Grinding to meet the cutoff for the CompTech major.
-- ⚙️ Learning the absolute basics of C++. Mostly just trial, errors, and a lot of debugging.
-- 🕹️ Hardware is mostly theory for me right now. I have the knowledge, I just need to get more hands-on practice.
+- ⚙️ Learning C++. Mostly just trial, errors, and a lot of debugging.
+- 🕹️ Practicing Soldering with precision, and learning circuit designs.
 
 ### 🎯 Goals for this year
 - [ ] Actually build a project instead of just thinking about building a project.
