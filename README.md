@@ -2,7 +2,7 @@
 
 > Learning to speak machine, one `segmentation fault` at a time.
 
-I am a BET student at TUPV, crossing my fingers to offcially land a spot in the Computer Engineering Technology major soon. And I just build random coding projects that pops up in my head.
+I am a BET student at TUPV, crossing my fingers to offcially land a spot in the Computer Engineering Technology major soon. Building random coding projects that pops up in my head.
 
 
 ### <h3>💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=230&height=28&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
