@@ -5,7 +5,7 @@
 I am a BET student at TUPV, crossing my fingers to offcially land a spot in the Computer Engineering Technology major soon. Building random coding projects that pops up in my head.
 
 
-### <h3>💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=230&height=28&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
+## <h3>💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=230&height=28&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
 
 - **Languages:** C++, C, Python
   <br>
@@ -23,12 +23,14 @@ I am a BET student at TUPV, crossing my fingers to offcially land a spot in the 
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" /></a> &nbsp;
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" height="35" alt="PyCharm" /></a>
 
+##
 ### ✨ Currently...
 1. Grinding to meet the cutoff for the CompTech major.
 2. Learning C++. Mostly just trial, errors, and a lot of debugging.
 3. Building simple projects to enchance my programming language fundamentals.
 4. Practicing Soldering with precision, and learning circuit designs.
-  
+
+##
 ### 🎯 Goals for this year
 - [ ] Actually build an app project instead of just thinking about building a project.
 - [ ] Majoring in CompTech.
