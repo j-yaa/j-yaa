@@ -2,7 +2,7 @@
 
 > Learning to speak machine, one `segmentation fault` at a time.
 
-I am a BET student at TUPV, crossing my fingers to offcially land a spot in the Computer Engineering Technology major soon. Building random coding projects that pops up in my head.
+A Comp Tech student at TUPV, building a strong foundation in hardware architecture and software development. I am passionate about bridging the gap between physical circuits and code, actively expanding my expertise in C++, Python, and embedded systems. My goal is to engineer robust, efficient, and scalable technological solutions.
 
 
 ## <h3>💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=230&height=28&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
@@ -25,12 +25,14 @@ I am a BET student at TUPV, crossing my fingers to offcially land a spot in the 
 
 ##
 ### ✨ Currently...
-1. Grinding to meet the cutoff for the CompTech major.
-2. Learning C++. Mostly just trial, errors, and a lot of debugging.
-3. Building simple projects to enchance my programming language fundamentals.
-4. Practicing Soldering with precision, and learning circuit designs.
+1. Grinding for latin honors
+2. Mastering C++. Mostly just trial, errors, and a lot of debugging.
+3. Developing projects to enchance my programming language fundamentals.
+4. Practicing soldering with precision, and learning circuit designs.
 
 ##
 ### 🎯 Goals for this year
-- [ ] Actually build an app project instead of just thinking about building a project.
-- [ ] Majoring in CompTech.
+- [ ] Build a web app project from scratch
+- [ ] Build a Cyber deck
+- [ ] Co-Develop indie games with my friends
+- [ ] Make practical solutions tech and program
