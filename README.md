@@ -2,7 +2,7 @@
 
 > Learning to speak machine, one `segmentation fault` at a time.
 
-I am a Computer Technology student at TUP-V with a growing passion for software development and computer systems. Right now, I'm building a solid foundation in core programming logic, low-level concepts, and hardware-software interaction.
+I am a Computer Engineering Technology student at TUP-V with a growing passion for software development and computer systems. Right now, I'm building a solid foundation in core programming logic, low-level concepts, and hardware-software interaction.
 
 
 ## <h3>💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=230&height=28&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
