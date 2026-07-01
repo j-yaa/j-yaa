@@ -2,7 +2,7 @@
 
 > Learning to speak machine, one `segmentation fault` at a time.
 
-A Comp Tech student at TUPV, building a strong foundation in hardware architecture and software development. I am passionate about bridging the gap between physical circuits and code, actively expanding my expertise in C++, Python, and embedded systems. My goal is to engineer robust, efficient, and scalable technological solutions.
+I am a Computer Technology student at TUP-V with a growing passion for software development and computer systems. Right now, I'm building a solid foundation in core programming logic, low-level concepts, and hardware-software interaction.
 
 
 ## <h3>💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=230&height=28&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
@@ -24,7 +24,7 @@ A Comp Tech student at TUPV, building a strong foundation in hardware architectu
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" height="35" alt="PyCharm" /></a>
 
 ##
-### ✨ Currently...
+### 🤔 What I'm up to:
 1. Grinding for latin honors
 2. Mastering C++. Mostly just trial, errors, and a lot of debugging.
 3. Developing projects to enchance my programming language fundamentals.
