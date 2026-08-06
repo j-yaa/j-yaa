@@ -22,7 +22,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 
 </div>
 
-<img src="https://dummyimage.com/1000x1/ffffff/ffffff" width="100%" height="2" alt="White Line" />
+---
 
  <h3> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=3000&color=FFFFFF&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
 
@@ -46,7 +46,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
     <a href="https://www.kicad.org/"><img src="https://cdn.simpleicons.org/kicad/white" width="36" height="36" alt="KiCad" /></a> &nbsp;
     <a href="https://www.autodesk.com/products/autocad"><img src="https://cdn.simpleicons.org/autocad" width="35" height="35" alt="AutoCAD" /></a>
   
-<img src="https://dummyimage.com/1000x1/ffffff/ffffff" width="100%" height="2" alt="White Line" />
+---
 
 <div align="right">
   
