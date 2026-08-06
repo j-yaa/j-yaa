@@ -3,7 +3,7 @@
   ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-----
             <img src="./jei's header.jpg" width="100%" alt="Header Banner" /> <br>
 <div align="right">
-                   --------––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+                   -------––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
                                                                                          j – y a a
 </div>
 
@@ -24,7 +24,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 
 ---
 
- <h3> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=3000&color=FFFFFF&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
+ <h3> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=3000&color=00FFCC;9933FF&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
 
  **Languages:**
   <br>
@@ -51,9 +51,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 <div align="right">
   
   ### B A D G E S
-   <a href="https://www.credly.com/badges/8c92b631-e5e2-48fc-8844-1a2ea9c558f6/public_url">
-      <img src="https://img.shields.io/badge/Cisco-C%2B%2B%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco C++ Essentials" />
-    </a>
+   <a href="https://www.credly.com/badges/8c92b631-e5e2-48fc-8844-1a2ea9c558f6/public_url"> <img src="https://img.shields.io/badge/Cisco-C%2B%2B%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco C++ Essentials" /> </a>
 
 </div>
 
@@ -62,6 +60,6 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 
 Reach Out!
 
-<a href="https://www.linkedin.com/in/jeia-faith-l-magbanua-97ab4a369/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>  
+  <a href="https://www.linkedin.com/in/jeia-faith-l-magbanua-97ab4a369/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>  
 
-<a href="magbanua.jeiafaith@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
+  <a href="magbanua.jeiafaith@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
