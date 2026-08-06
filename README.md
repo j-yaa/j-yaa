@@ -48,6 +48,12 @@ a Computer Engineering Technology student, I do both software & hardware work :)
   
 ---
 
+<div align="center"> (M Y)  C O N T R I B U T I O N S
+       
+![snake](https://raw.githubusercontent.com/j-yaa/j-yaa/output/snake-purple.svg)
+
+---
+
 <div align="right">
   
 ### B A D G E S
