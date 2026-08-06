@@ -22,7 +22,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 
 </div>
 
-<div align="center"> 
+<div align="right"> 
   =====================================================================================
 </div>
 
@@ -48,7 +48,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
     <a href="https://www.kicad.org/"><img src="https://cdn.simpleicons.org/kicad/white" width="36" height="36" alt="KiCad" /></a> &nbsp;
     <a href="https://www.autodesk.com/products/autocad"><img src="https://cdn.simpleicons.org/autocad" width="35" height="35" alt="AutoCAD" /></a>
   
-<div align="center"> 
+<div align="left"> 
   =====================================================================================
 </div>
 
