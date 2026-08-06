@@ -52,7 +52,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
        
 ![snake](https://raw.githubusercontent.com/j-yaa/j-yaa/output/snake-purple.svg)
 
----
+#
 
 <div align="right">
   
