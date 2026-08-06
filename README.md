@@ -62,4 +62,4 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 Reach Out!
 
   <a href="https://www.linkedin.com/in/jeia-faith-l-magbanua-97ab4a369/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a> &nbsp;
-  <a href="magbanua.jeiafaith@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
+  <a href="mailto:magbanua.jeiafaith@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
