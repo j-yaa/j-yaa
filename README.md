@@ -22,7 +22,10 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 
 </div>
 
-=========================================================================================
+<div align="center"> 
+  ============================================================================================
+</div>
+
  <h3> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=3000&color=FFFFFF&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
 
  **Languages:**
@@ -41,13 +44,17 @@ a Computer Engineering Technology student, I do both software & hardware work :)
     <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" height="35" alt="PyCharm" /></a> &nbsp;
     <a href="https://www.codewars.com/users/j-yaa"><img src="https://cdn.simpleicons.org/codewars" width="35" height="35" alt="CodeWars" /></a> &nbsp;
     <a href="https://projecteuler.net/"><img src="https://ui-avatars.com/api/?name=PE&background=4D4D4D&color=fff&size=35&bold=true&font-size=0.45" width="35" height="35" alt="Project Euler" /></a> &nbsp;
-    <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino IDE" /></a> &nbsp;
+    <a href="https://www.arduino.cc/en/software/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino IDE" /></a> &nbsp;
     <a href="https://www.kicad.org/"><img src="https://cdn.simpleicons.org/kicad/white" width="36" height="36" alt="KiCad" /></a> &nbsp;
     <a href="https://www.autodesk.com/products/autocad"><img src="https://cdn.simpleicons.org/autocad" width="35" height="35" alt="AutoCAD" /></a>
   
-  =========================================================================================
-<br>
- ### B A D G E S
+<div align="center"> 
+  ============================================================================================
+</div>
+
+<div align="right">
+  
+  ### B A D G E S
    <a href="https://www.credly.com/badges/8c92b631-e5e2-48fc-8844-1a2ea9c558f6/public_url">
       <img src="https://img.shields.io/badge/Cisco-C%2B%2B%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco C++ Essentials" />
     </a>
