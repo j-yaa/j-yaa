@@ -60,7 +60,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 ### B A D G E S
    <a href="https://www.credly.com/badges/8c92b631-e5e2-48fc-8844-1a2ea9c558f6/public_url"> <img src="https://img.shields.io/badge/Cisco-C%2B%2B%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco C++ Essentials" /> </a>
    <br>
-   <a href="https://www.credly.com/badges/d6ad683e-53a2-4919-8ab3-2a2b8f828ba1/public_url"> <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-3776AB?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco Python Essentials" /> </a>
+   <a href="https://www.credly.com/badges/d6ad683e-53a2-4919-8ab3-2a2b8f828ba1/public_url"> <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco Python Essentials" /> </a>
 
 </div>
 
