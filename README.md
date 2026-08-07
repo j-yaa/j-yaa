@@ -40,6 +40,7 @@ a Computer Engineering Technology student, I do both software & hardware work :)
   <a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="35" height="35" alt="Visual Studio" /></a> &nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" /></a> &nbsp;
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" height="35" alt="PyCharm" /></a> &nbsp;
+  <a href="https://replit.com/"><img src="https://cdn.simpleicons.org/replit" width="35" height="35" alt="Replit" /></a> &nbsp;
   <a href="https://www.codewars.com/users/j-yaa"><img src="https://cdn.simpleicons.org/codewars" width="35" height="35" alt="CodeWars" /></a> &nbsp;
   <a href="https://projecteuler.net/"><img src="https://ui-avatars.com/api/?name=PE&background=4D4D4D&color=fff&size=35&bold=true&font-size=0.45" width="35" height="35" alt="Project Euler" /></a> &nbsp;
   <a href="https://www.arduino.cc/en/software/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino IDE" /></a> &nbsp;
@@ -58,6 +59,8 @@ a Computer Engineering Technology student, I do both software & hardware work :)
   
 ### B A D G E S
    <a href="https://www.credly.com/badges/8c92b631-e5e2-48fc-8844-1a2ea9c558f6/public_url"> <img src="https://img.shields.io/badge/Cisco-C%2B%2B%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco C++ Essentials" /> </a>
+   <br>
+   <a href="https://www.credly.com/badges/d6ad683e-53a2-4919-8ab3-2a2b8f828ba1/public_url"> <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-3776AB?style=for-the-badge&logo=cisco&logoColor=white" height="26" alt="Cisco Python Essentials" /> </a>
 
 </div>
 
@@ -67,5 +70,5 @@ a Computer Engineering Technology student, I do both software & hardware work :)
 
 Reach Out!
 
-  <a href="https://www.linkedin.com/in/jeia-faith-l-magbanua-97ab4a369/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/jeia-faith-l-magbanua-97ab4a369/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
   <a href="mailto:magbanua.jeiafaith@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" /></a>
