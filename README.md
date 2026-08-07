@@ -15,8 +15,7 @@
 </div>
 
 # Hi there, I'm Jeia <img src="./jei's hand.png" width="65" valign="middle" />
-       
-  > a Computer Engineering Technology student, I do both software & hardware work :) 
+       a Computer Engineering Technology student, I do both software & hardware work :) 
 
 ---
 
