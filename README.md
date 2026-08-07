@@ -1,6 +1,10 @@
-<div align="left"> G I T H U B ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-----
-       <img src="./jei's header.jpg" width="100%" alt="Header Banner" /> 
-<div align="right"> -------––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– j – y a a </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark-mode%20github%20header.jpg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="./light-mode%20github%20header.jpg">
+  
+  <img alt="Header Banner" src="./dark-mode%20github%20header.jpg" width="100%">
+</picture>
 
 <div align="center"> <sub><sub><i>(ALL LOGOS ARE CLICKABLE LINKS)</i></sub></sub>
        
