@@ -23,7 +23,13 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=3000&color=D3D3D3&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" /></h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=3000&color=D3D3D3&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=3000&color=000000&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=3000&color=D3D3D3&center=false&vCenter=true&width=300&height=40&lines=Tech+Stack+%26+Tools" alt="Tech Stack" valign="middle" style="margin-left: 5px;" />
+</picture>
 
  **Languages:**
   <br>
@@ -41,9 +47,9 @@
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" height="35" alt="PyCharm" /></a> &nbsp;
   <a href="https://replit.com/"><img src="https://cdn.simpleicons.org/replit" width="35" height="35" alt="Replit" /></a> &nbsp;
   <a href="https://www.codewars.com/users/j-yaa"><img src="https://cdn.simpleicons.org/codewars" width="35" height="35" alt="CodeWars" /></a> &nbsp;
-  <a href="https://projecteuler.net/"><img src="https://ui-avatars.com/api/?name=PE&background=4D4D4D&color=fff&size=35&bold=true&font-size=0.45" width="35" height="35" alt="Project Euler" /></a> &nbsp;
+  <a href="https://projecteuler.net/"><img src="./projecteuler.png" width="36" height="36" alt="ProjectEuler" /></a> &nbsp;
   <a href="https://www.arduino.cc/en/software/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino IDE" /></a> &nbsp;
-  <a href="https://www.kicad.org/"><img src="https://cdn.simpleicons.org/kicad/white" width="36" height="36" alt="KiCad" /></a> 
+  <a href="https://www.kicad.org/"><img src="./kicad.png" width="36" height="36" alt="KiCad" /></a>
   
 ---
 
