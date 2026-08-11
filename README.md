@@ -9,7 +9,7 @@
 <div align="center"> <sub><sub><i>(ALL LOGOS ARE CLICKABLE LINKS)</i></sub></sub>
        
   <br>
-  <a href="https://instagram.com/by.jeia"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/instagram/black"><img src="https://cdn.simpleicons.org/instagram/white" height="25" alt="Instagram" /></picture></a> &nbsp;&nbsp;
+  <a href="https://instagram.com/by.jeia"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/instagram/black"><img src="https://cdn.simpleicons.org/instagram/white" height="24" alt="Instagram" /></picture></a> &nbsp;&nbsp;
   <a href="https://x.com/de_sijn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/black"><img src="https://cdn.simpleicons.org/x/white" height="23" alt="X" /></picture></a> &nbsp;&nbsp;
   <a href="https://facebook.com/JeiaFaithL.Magbanua"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/facebook/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/facebook/black"><img src="https://cdn.simpleicons.org/facebook/white" height="25" alt="Facebook" /></picture></a> &nbsp;&nbsp;
   <a href="https://discord.com/users/703658098157420616"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/black"><img src="https://cdn.simpleicons.org/discord/white" height="25" alt="Discord" /></picture></a> &nbsp;&nbsp;
@@ -49,7 +49,7 @@
   <a href="https://www.codewars.com/users/j-yaa"><img src="https://cdn.simpleicons.org/codewars" width="35" height="35" alt="CodeWars" /></a> &nbsp;
   <a href="https://projecteuler.net/"><img src="./projecteuler.png" width="36" height="36" alt="ProjectEuler" /></a> &nbsp;
   <a href="https://www.arduino.cc/en/software/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino IDE" /></a> &nbsp;
-  <a href="https://www.kicad.org/"><img src="./kicad.png" width="36" height="36" alt="KiCad" /></a>
+  <a href="https://www.kicad.org/"><img src="./kicad.png" width="35" height="35" alt="KiCad" /></a>
   
 ---
 
