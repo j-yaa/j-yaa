@@ -9,10 +9,10 @@
 <div align="center"> <sub><sub><i>(ALL LOGOS ARE CLICKABLE LINKS)</i></sub></sub>
        
   <br>
-  <a href="https://instagram.com/by.jeia"><img src="https://cdn.simpleicons.org/instagram/white" height="25" alt="Instagram" /></a> &nbsp;&nbsp;
-  <a href="https://x.com/de_sijn"><img src="https://cdn.simpleicons.org/x/white" height="25" alt="X" /></a> &nbsp;&nbsp;
-  <a href="https://facebook.com/JeiaFaithL.Magbanua"><img src="https://cdn.simpleicons.org/facebook/white" height="25" alt="Facebook" /></a> &nbsp;&nbsp;
-  <a href="https://discord.com/users/703658098157420616"><img src="https://cdn.simpleicons.org/discord/white" height="25" alt="Discord" /></a> &nbsp;&nbsp;
+  <a href="https://instagram.com/by.jeia"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/instagram/black"><img src="https://cdn.simpleicons.org/instagram/white" height="25" alt="Instagram" /></picture></a> &nbsp;&nbsp;
+  <a href="https://x.com/de_sijn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/black"><img src="https://cdn.simpleicons.org/x/white" height="23" alt="X" /></picture></a> &nbsp;&nbsp;
+  <a href="https://facebook.com/JeiaFaithL.Magbanua"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/facebook/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/facebook/black"><img src="https://cdn.simpleicons.org/facebook/white" height="25" alt="Facebook" /></picture></a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/703658098157420616"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/black"><img src="https://cdn.simpleicons.org/discord/white" height="25" alt="Discord" /></picture></a> &nbsp;&nbsp;
   <br>
   <a href='https://ko-fi.com/byjeia' target='_blank'><img height='64' style='border:0px;height:30px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
