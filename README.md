@@ -9,10 +9,10 @@
 <div align="center"> <sub><sub><i>(ALL LOGOS ARE CLICKABLE LINKS)</i></sub></sub>
        
   <br>
-  <a href="https://instagram.com/by.jeia"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" alt="Instagram" /></a> &nbsp;
-  <a href="https://x.com/de_sijn"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="20.5" alt="X" /></a> &nbsp;
-  <a href="https://facebook.com/JeiaFaithL.Magbanua"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="20" alt="Facebook" /></a> &nbsp;
-  <a href="https://discord.com/users/703658098157420616"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="20" alt="Discord" /></a> &nbsp;
+  <a href="https://instagram.com/by.jeia"><img src="https://cdn.simpleicons.org/instagram/white" height="25" alt="Instagram" /></a> &nbsp;&nbsp;
+  <a href="https://x.com/de_sijn"><img src="https://cdn.simpleicons.org/x/white" height="25" alt="X" /></a> &nbsp;&nbsp;
+  <a href="https://facebook.com/JeiaFaithL.Magbanua"><img src="https://cdn.simpleicons.org/facebook/white" height="25" alt="Facebook" /></a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/703658098157420616"><img src="https://cdn.simpleicons.org/discord/white" height="25" alt="Discord" /></a> &nbsp;&nbsp;
   <br>
   <a href='https://ko-fi.com/byjeia' target='_blank'><img height='64' style='border:0px;height:30px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
