@@ -62,10 +62,8 @@
 <div align="right">
   
 ### B A D G E S
-   <a href="https://www.credly.com/badges/8c92b631-e5e2-48fc-8844-1a2ea9c558f6/public_url"> <img src="./c-essentials-1.png" width="45" height="45" alt="cppessentials1" /></a>
-   <br>
-   <a href="https://www.credly.com/badges/d6ad683e-53a2-4919-8ab3-2a2b8f828ba1/public_url"> <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white" height="20" alt="Cisco Python Essentials" /> </a>
-
+   <a href="https://www.credly.com/badges/8c92b631-e5e2-48fc-8844-1a2ea9c558f6/public_url"> <img src="./c-essentials-1.png" width="50" height="50" alt="C++ Essentials 1" /></a> &nbsp;
+   <a href="https://www.credly.com/badges/d6ad683e-53a2-4919-8ab3-2a2b8f828ba1/public_url"> <img src="./python-essentials-1.1.png" width="50" height="50" alt="Python Essentials 1" /></a>
 </div>
 
 #
